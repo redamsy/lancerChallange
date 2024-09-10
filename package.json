@@ -27,7 +27,7 @@
     "react-native-safe-area-context": "^3.0.7",
     "react-native-screens": "^2.9.0",
     "react-native-swipeout": "^2.3.6",
-    "react-navigation": "^4.4.0",
+    "react-navigation": "^5.0.0",
     "realm": "^6.0.2"
   },
   "devDependencies": {
